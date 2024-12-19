@@ -1,0 +1,51 @@
+body {
+    font-family: "DM Serif Text", serif;
+    background-color: #c4f0ec;
+    color: white
+  }
+  
+  .contenedor {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #047377;
+    box-shadow: 0 10px 10px #135858;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 70%;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: lightblue;
+    color: #ffffff;
+    border: 4px outset rgb(247, 247, 248);
+    cursor: pointer;
+  }
+  
+  #datosClima {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .dm-serif-text-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .dm-serif-text-regular-italic {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
